@@ -5,6 +5,6 @@ permalink: /overview/
 ---
 
 You can do the following:
-- One
-- Two
-- Three
+ - One
+ - Two
+ - Three
