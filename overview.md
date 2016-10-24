@@ -2,6 +2,8 @@
 layout: page
 title: Overview
 permalink: /overview/
+markdown: kramdown
+kramdown:
 input: GFM
 ---
 
